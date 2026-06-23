@@ -2,50 +2,35 @@
 
 ## Goal
 
-Describe the main goal in one sentence.
+Generate consistent new-project skeletons (folder layout, issue templates, label script, docs) from a single command.
 
 ## Why this project matters
 
-Explain what skill this project demonstrates.
+Developer-tooling / CLI engineering — code generation and templating that automates repetitive repo setup (essentially productizing the very template these repos came from).
 
 ## Current status
 
 | Area | Status |
 |---|---|
-| Spec | Not Started |
+| Spec | In Progress |
 | Code / RTL | Not Started |
 | Tests / Simulation | Not Started |
 | Documentation | Not Started |
 | Portfolio Ready | No |
 
 ## Tools used
-
-- Tool 1
-- Tool 2
-- Tool 3
+TBD
 
 ## Project structure
-.
-├── src/
-├── tests/
-├── docs/
-├── scripts/
-└── results/
-
+TBD
 
 ## How to run
-
 ```bash
-# Add commands here
-#```
-
-## Testing / verification
-
-Explain how the project is checked.
-
-## Results
-
-Add screenshots, logs, terminal output, waveform notes, or demo links.
-
+# TBD
 ```
 
+## Testing / verification
+TBD
+
+## Results
+TBD
